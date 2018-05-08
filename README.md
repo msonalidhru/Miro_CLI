@@ -6,3 +6,10 @@ python mirocli.py
 It would ask for a path to the JSON file, if the JSON file is valid it will calculate and display the output.
 
 Errors if any will logged in the log folder of this project.
+
+#Miro CLI - TEST
+
+Run the test script provided on the python prompt:
+
+python mirotest.py
+Optional -> Change the JSON filepath in setUp() of the mirotest.py script
