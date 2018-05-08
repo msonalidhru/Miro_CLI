@@ -1,11 +1,11 @@
 # Miro_CLI
-Run this in Python 3 Prompt: 
 
-python mirocli.py 
-
-It would ask for a path to the JSON file, if the JSON file is valid it will calculate and display the output.
-
-Errors if any will logged in the log folder of this project.
+To run this program:
+1. Get this github code on the local PC
+2. On Python command Prompt: python mirocli.py 
+3. Program pauses for JSON file path input from the user
+4. If there are no errors it will calculate and display the output.
+5. If there were any errors they are logged in the log folder of this project and displayed on the console.
 
 #Miro Cli - Test
 
