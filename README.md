@@ -7,7 +7,7 @@ It would ask for a path to the JSON file, if the JSON file is valid it will calc
 
 Errors if any will logged in the log folder of this project.
 
-#Miro CLI - TEST
+#Miro Cli - Test
 
 Run the test script provided on the python prompt:
 
